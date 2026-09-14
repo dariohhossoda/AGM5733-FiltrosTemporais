@@ -1,0 +1,9 @@
+# par local do jupytext: o .ipynb é o que se versiona
+AGM5733-Filtragem-Temporal.py
+
+# saída que o notebook grava ao rodar (é o mesmo arquivo que o programa em IDL grava)
+temp_1000mb_lat37N_lon120W_bandpass.dat
+low_pass_filter.txt
+
+.ipynb_checkpoints/
+__pycache__/
